@@ -58,6 +58,7 @@
 @import url(./blocks/popup/_type_delete/popup_type_delete.css);
 @import url(./blocks/popup/__image-status/popup__image-status.css);
 @import url(./blocks/popup/__title_info/popup__title_info.css);
+@import url(./blocks/popup/__status-container/popup__status-container.css);
 
 @import url(./blocks/login/login.css);
 @import url(./blocks/login/__container/login__container.css);
